@@ -1,0 +1,19 @@
+{
+  "name": "@piyal/whatkind",
+  "version": "1.0.0",
+  "description": "returns the data type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YamatoDX/whatking.git"
+  },
+  "author": "Md Shadman Matin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YamatoDX/whatking/issues"
+  },
+  "homepage": "https://github.com/YamatoDX/whatking#readme"
+}
